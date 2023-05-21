@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Saqlain</h1>
 <h3 align="center">A passionate Data Scientist and ML enthusiast</h3>
 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
 - 🌱 I’m currently learning **Data Science**
 - ✨ On the verge of exploring **MERN Stack**
 
