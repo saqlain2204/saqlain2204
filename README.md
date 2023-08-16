@@ -3,8 +3,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🌱 I’m currently learning **Machine Learning**
-- ✨ Exploring **MERN Stack**
+- 🌱 I’m currently exploring **Deep Learning**
+- ✨ Exploring **Generative AI**
 
 - 📫 How to reach me **saqlain2204@gmail.com**
 
