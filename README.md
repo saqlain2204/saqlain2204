@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Saqlain</h1>
-<h3 align="center">A passionate Data Scientist and ML enthusiast</h3>
+<h3 align="center">A ML enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🌱 I’m currently exploring **Deep Learning**
-- ✨ Exploring **Generative AI**
+- ✨ Exploring **Deep Learning** & **Generative AI**
 
 - 📫 How to reach me **saqlain2204@gmail.com**
 
