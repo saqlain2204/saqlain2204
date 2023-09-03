@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- ✨ Exploring **Deep Learning** & **Generative AI**
+- ✨ Exploring **Generative AI** with **LLMs**
 
 - 📫 How to reach me **saqlain2204@gmail.com**
 
