@@ -21,6 +21,7 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://codeahoy.com/assets/images/compare/python-frameworks/fastapi-logo.png" alt="fastapi" width="40" height="40"/> </a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="streamlit" width="45" height="35"/> </a>
+<a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/61449322?v=4" alt="mlflow" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqlain2204&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="saqlain2204" /></p>
