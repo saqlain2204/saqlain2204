@@ -22,7 +22,8 @@
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://codeahoy.com/assets/images/compare/python-frameworks/fastapi-logo.png" alt="fastapi" width="40" height="40"/> </a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="streamlit" width="45" height="35"/> </a>
 <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/61449322?v=4" alt="mlflow" width="40" height="40"/> </a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.datacamp.com/main-app/assets/technologies/r-logo-5c69597a5f008fdd6184642d8bfed5a39452c9245220b11e300092601e030c41.svg" alt="mlflow" width="40" height="40"/> </a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.datacamp.com/main-app/assets/technologies/r-logo-5c69597a5f008fdd6184642d8bfed5a39452c9245220b11e300092601e030c41.svg" alt="r" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="mysql" width="80" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqlain2204&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="saqlain2204" /></p>
