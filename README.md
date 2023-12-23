@@ -26,8 +26,10 @@
 <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/61449322?v=4" alt="mlflow" width="40" height="40"/> </a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.datacamp.com/main-app/assets/technologies/r-logo-5c69597a5f008fdd6184642d8bfed5a39452c9245220b11e300092601e030c41.svg" alt="r" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="mysql" width="80" height="40"/> </a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="60" height="40"/> </a>  
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqlain2204&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="saqlain2204" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saqlain2204&show_icons=true&locale=en&theme=tokyonight" alt="saqlain2204" /></p>
 
