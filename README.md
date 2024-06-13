@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohammed Saqlain </h1>
-<h3 align='center'>⭐ Narrating story through Data ⭐</h3>
+<h3 align='center'>⭐ Vanishing Gradient 🤔 ⭐</h3>
 <hr>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- ✨ Synergizing **MLOps**, **LLMs**, and **Data Science** for impactful innovation.
+- ✨ Deep Learning and Natural Language Processing.
 
 - 📫 How to reach me **saqlain2204@gmail.com**
 
