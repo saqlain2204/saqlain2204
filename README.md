@@ -1,8 +1,9 @@
 
 ## About
 
-Hey👋! I'am Mohammed Saqlain, a pre-final year student pursuing B.Tech in Computer Science and Engineering with a specialization in AI and Machine Learning. I am enthusiast in the world of technology and sciences. My work experiences include:
+Hey👋! I'am Mohammed Saqlain, a final year student pursuing B.Tech in Computer Science and Engineering with a specialization in AI and Machine Learning. I am enthusiast in the world of technology and sciences. My work experiences include:
 
+- [ProjektAnalytics](https://www.projektanalytics.com) (AI Engineering Intern, June 2025 - Present)
 - [Boltzmann Labs](https://www.boltzmann.co) (Research Intern, June 2024 - Aug 2024)
 - [3Analytics](https://3analytics.com/) (LLM intern, Aug 2023 - Jan 2024)
 
