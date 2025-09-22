@@ -1,12 +1,34 @@
+## About  
 
-## About
+Hey 👋! I’m **Mohammed Saqlain**, a final-year B.Tech student at [PES University](https://pes.edu), specializing in Computer Science and Engineering with a focus on **AI and Machine Learning**. My academic journey has been shaped by coursework in **Deep Learning, NLP, Big Data, and Graph Neural Networks**, and I maintain a GPA of **8.68/10**.  
 
-Hey👋! I'am Mohammed Saqlain, a final year student pursuing B.Tech in Computer Science and Engineering with a specialization in AI and Machine Learning. I am enthusiast in the world of technology and sciences. My work experiences include:
+I’ve been fortunate to gain diverse industry and research experience:  
 
-- [ProjektAnalytics](https://www.projektanalytics.com) (AI Engineer Intern, June 2025 - Present)
-- [Boltzmann Labs](https://www.boltzmann.co) (Research Intern, June 2024 - Aug 2024)
-- [3Analytics](https://3analytics.com/) (LLM intern, Aug 2023 - Jan 2024)
+- **[Indian Institute of Science (IISc)](https://aero.iisc.ac.in/)** – *Research Intern (Jun 2025 – Present)*  
+  Contributing to the **NMCAD Lab’s eVTOL project**, developing data-driven models to improve system performance and efficiency.  
 
-I specialize in developing innovative products that streamline daily tasks, harnessing the power of Generative AI. Currently, I'm deeply involved in building [AstuteAI](https://astuteai.streamlit.app), where we strive to enhance user productivity and convenience through cutting-edge AI technologies. My fascination with deep learning and Natural Language Processing (NLP) fuels my commitment to staying abreast of advancements in this dynamic field. Beyond technology, I lead a dynamic life as both a professional cricketer and a black-belt holder in karate, where discipline and agility are paramount. I occasionally share insights through articles on [Medium](https://medium.com/@vanishingradiant), exploring topics at the intersection of AI, experiences and daily life. 
+- **[ProjektAnalytics](https://www.projektanalytics.com)** – *AI Engineer Intern (Jun 2025 – Present)*  
+  Building the AI backend for a **multi-agent, hyper-personalized chatbot** that orchestrates dynamic, context-aware conversations.  
 
-I am driven by a genuine desire to make a positive impact, aiming to leverage my skills to assist others effectively. You can reach out to me via [Email](mailto:saqlain.contact@gmail.com) or [LinkedIn](https://linkedin.com/in/saqlain2204). View my portfolio [here](https://saqlain2204.github.io).
+- **[Boltzmann Labs](https://www.boltzmann.co)** – *Research Intern (Jun 2024 – Aug 2024)*  
+  Designed healthcare NLP solutions with LLMs and created a **live streaming speech-to-text app** that boosted transcription accuracy by 80%.  
+
+- **[3Analytics](https://3analytics.com/)** – *LLM Intern (Sept 2023 – Jan 2024)*  
+  Developed systems to extract diseases and symptoms from medical text and map them to **MedDRA codes** for accurate healthcare analytics.  
+
+---
+
+### Projects  
+I actively work on projects at the intersection of generative AI, automation, and productivity. A few highlights:  
+
+- **[AstuteAI](https://astuteai.streamlit.app)** – Context-driven summaries of study material and videos.  
+- **[PACLI](https://github.com/saqlain2204/PACLI)** – A CLI-based AI personal assistant agent.  
+- **[Presently](https://github.com/saqlain2204/presently)** – AI-powered tool to turn web content into presentation videos.  
+- **[TopiQ](https://github.com/saqlain2204/Topic-Modelling-Using-Large-Language-Models)** – Topic modeling pipeline with LLMs and graph analytics.  
+---
+
+Outside of tech, I balance discipline and agility as both a **professional cricketer** and a **black-belt in karate**. I also share thoughts on AI and life on [Medium](https://medium.com/@vanishingradiant).  
+
+I’m passionate about building impactful AI systems that solve real problems and am always open to collaboration.  
+
+📩 [Email](mailto:saqlain.contact@gmail.com) | [LinkedIn](https://linkedin.com/in/saqlain2204) | [GitHub](https://github.com/saqlain2204) | [Portfolio](https://saqlain2204.github.io)
