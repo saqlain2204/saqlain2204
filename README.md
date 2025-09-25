@@ -1,6 +1,6 @@
 ## About  
 
-Hey 👋! I’m **Mohammed Saqlain**, a final-year B.Tech student at [PES University](https://pes.edu), specializing in Computer Science and Engineering with a focus on **AI and Machine Learning**. My academic journey has been shaped by coursework in **Deep Learning, NLP, Big Data, and Graph Neural Networks**, and I maintain a GPA of **8.68/10**.  
+Hey 👋! I’m **Mohammed Saqlain**, a final-year B.Tech student at [PES University](https://pes.edu), specializing in Computer Science and Engineering with a focus on **AI and Machine Learning**.
 
 I’ve been fortunate to gain diverse industry and research experience:  
 
