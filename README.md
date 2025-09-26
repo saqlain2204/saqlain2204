@@ -5,21 +5,14 @@ Hey 👋! I’m **Mohammed Saqlain**, a final-year B.Tech student at [PES Univer
 I’ve been fortunate to gain diverse industry and research experience:  
 
 - **[Indian Institute of Science (IISc)](https://aero.iisc.ac.in/)** – *Research Intern (Jun 2025 – Present)*  
-  Contributing to the **NMCAD Lab’s eVTOL project**, developing data-driven models to improve system performance and efficiency.  
-
 - **[ProjektAnalytics](https://www.projektanalytics.com)** – *AI Engineer Intern (Jun 2025 – Present)*  
-  Building the AI backend for a **multi-agent, hyper-personalized chatbot** that orchestrates dynamic, context-aware conversations.  
-
 - **[Boltzmann Labs](https://www.boltzmann.co)** – *Research Intern (Jun 2024 – Aug 2024)*  
-  Designed healthcare NLP solutions with LLMs and created a **live streaming speech-to-text app** that boosted transcription accuracy by 80%.  
-
-- **[3Analytics](https://3analytics.com/)** – *LLM Intern (Sept 2023 – Jan 2024)*  
-  Developed systems to extract diseases and symptoms from medical text and map them to **MedDRA codes** for accurate healthcare analytics.  
+- **[3Analytics](https://3analytics.com/)** – *LLM Intern (Sept 2023 – Jan 2024)*
 
 ---
 
 ### Projects  
-I actively work on projects at the intersection of generative AI, automation, and productivity. A few highlights:  
+I actively work on projects at the intersection of generative AI, NLP, and productivity. A few highlights:  
 
 - **[AstuteAI](https://astuteai.streamlit.app)** – Context-driven summaries of study material and videos.  
 - **[PACLI](https://github.com/saqlain2204/PACLI)** – A CLI-based AI personal assistant agent.  
