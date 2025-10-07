@@ -12,12 +12,17 @@ I’ve been fortunate to gain diverse industry and research experience:
 ---
 
 ### Projects  
-I actively work on projects at the intersection of generative AI, NLP, and productivity. A few highlights:  
+I actively work on projects at the intersection of generative AI, NLP, and productivity. A few highlights:
 
 - **[AstuteAI](https://astuteai.streamlit.app)** – Context-driven summaries of study material and videos.  
 - **[PACLI](https://github.com/saqlain2204/PACLI)** – A CLI-based AI personal assistant agent.  
 - **[Presently](https://github.com/saqlain2204/presently)** – AI-powered tool to turn web content into presentation videos.  
-- **[TopiQ](https://github.com/saqlain2204/Topic-Modelling-Using-Large-Language-Models)** – Topic modeling pipeline with LLMs and graph analytics.  
+- **[TopiQ](https://github.com/saqlain2204/Topic-Modelling-Using-Large-Language-Models)** – Topic modeling pipeline with LLMs and graph analytics.
+
+<a href="https://github.com/saqlain2204">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saqlain2204&bg_color=00000000&hide_border=true&point=false&line=ffffff99&line_width=2&radius=8&area=true&area_color=ffffff&title_color=ffffff&color=ffffff99&range=6mo">
+</a>
+
 ---
 
 Outside of tech, I balance discipline and agility as both a **professional cricketer** and a **black-belt in karate**. I also share thoughts on AI and life on [Medium](https://medium.com/@vanishingradiant).  
