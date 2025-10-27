@@ -2,7 +2,7 @@
 
 Hey 👋! I’m **Mohammed Saqlain**, a final-year B.Tech student at [PES University](https://pes.edu), specializing in Computer Science and Engineering with a focus on **AI and Machine Learning**.
 
-I’ve been fortunate to gain diverse industry and research experience:  
+Experience:  
 
 - **[Indian Institute of Science (IISc)](https://aero.iisc.ac.in/)** – *Research Intern (Jun 2025 – Present)*  
 - **[ProjektAnalytics](https://www.projektanalytics.com)** – *AI Engineer Intern (Jun 2025 – Present)*  
