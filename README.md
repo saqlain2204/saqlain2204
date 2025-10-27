@@ -2,7 +2,7 @@
 
 Hey 👋! I’m **Mohammed Saqlain**, a final-year B.Tech student at [PES University](https://pes.edu), specializing in Computer Science and Engineering with a focus on **AI and Machine Learning**.
 
-Experience:  
+### Experience:  
 
 - **[Indian Institute of Science (IISc)](https://aero.iisc.ac.in/)** – *Research Intern (Jun 2025 – Present)*  
 - **[ProjektAnalytics](https://www.projektanalytics.com)** – *AI Engineer Intern (Jun 2025 – Present)*  
@@ -11,8 +11,7 @@ Experience:
 
 ---
 
-### Projects  
-I actively work on projects at the intersection of generative AI, NLP, and productivity. A few highlights:
+### Projects
 
 - **[AstuteAI](https://astuteai.streamlit.app)** – Context-driven summaries of study material and videos.  
 - **[PACLI](https://github.com/saqlain2204/PACLI)** – A CLI-based AI personal assistant agent.  
