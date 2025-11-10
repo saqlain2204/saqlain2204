@@ -13,7 +13,6 @@ Hey 👋! I’m **Mohammed Saqlain**, a final-year B.Tech student at [PES Univer
 
 ### Projects
 
-- **[AstuteAI](https://astuteai.streamlit.app)** – Context-driven summaries of study material and videos.  
 - **[PACLI](https://github.com/saqlain2204/PACLI)** – A CLI-based AI personal assistant agent.  
 - **[Presently](https://github.com/saqlain2204/presently)** – AI-powered tool to turn web content into presentation videos.  
 - **[TopiQ](https://github.com/saqlain2204/Topic-Modelling-Using-Large-Language-Models)** – Topic modeling pipeline with LLMs and graph analytics.
