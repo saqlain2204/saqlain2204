@@ -27,4 +27,4 @@ Outside of tech, I balance discipline and agility as both a **professional crick
 
 I’m passionate about building impactful AI systems that solve real problems and am always open to collaboration.  
 
-📩 [Email](mailto:saqlain.contact@gmail.com) | [LinkedIn](https://linkedin.com/in/saqlain2204) | [GitHub](https://github.com/saqlain2204) | [Portfolio](https://saqlain2204.github.io)
+📩 [Email](mailto:saqlain.contact@gmail.com) | [LinkedIn](https://linkedin.com/in/saqlain2204) | [GitHub](https://github.com/saqlain2204) | [Portfolio](https://msaqlain.com)
