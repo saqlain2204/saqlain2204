@@ -2,10 +2,11 @@
 
 Hey 👋! I’m **Mohammed Saqlain**, a final-year B.Tech student at [PES University](https://pes.edu), specializing in Computer Science and Engineering with a focus on **AI and Machine Learning**.
 
-### Experience:  
+### Experience:
 
-- **[Indian Institute of Science (IISc)](https://aero.iisc.ac.in/)** – *Research Intern (Jun 2025 – Present)*  
-- **[ProjektAnalytics](https://www.projektanalytics.com)** – *AI Engineer Intern (Jun 2025 – Present)*  
+- **[Arctic Wolf Networks](https://arcticwolf.com)** - *Developer Intern (Jan 2026 - Present)*
+- **[Indian Institute of Science (IISc)](https://aero.iisc.ac.in/)** – *Research Intern (Jun 2025 – March 2026)*  
+- **[ProjektAnalytics](https://www.projektanalytics.com)** – *AI Engineer Intern (Jun 2025 – August 2025)*  
 - **[Boltzmann Labs](https://www.boltzmann.co)** – *Research Intern (Jun 2024 – Aug 2024)*  
 - **[3Analytics](https://3analytics.com/)** – *LLM Intern (Sept 2023 – Jan 2024)*
 
