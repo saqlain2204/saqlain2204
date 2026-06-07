@@ -10,7 +10,7 @@ Currently working at the intersection of AI and cybersecurity at [Arctic Wolf Ne
 
 **Competitions:** ACM ICPC Asia West Regionalist 2025. Flipr Hackathon Runners Up.
 
-Connect with me here: [Email](mailto:saqlain.contact@gmail.com) · [LinkedIn](https://linkedin.com/in/saqlain2204) · [Portfolio](https://msaqlain.com) · [Medium](https://medium.com/@vanishingradiant)
+Connect with me here: [Email](mailto:saqlain.contact@gmail.com) · [LinkedIn](https://linkedin.com/in/saqlain2204) · [Portfolio](https://msaqlain.com) · [Medium](https://medium.com/@activation-tanh)
 
 ---
 
