@@ -1,31 +1,19 @@
-## About  
+## Mohammed Saqlain — AI Engineer | Researcher | NLP | LLMs | AI Security
 
-Hey 👋! I’m **Mohammed Saqlain**, a final-year B.Tech student at [PES University](https://pes.edu), specializing in Computer Science and Engineering with a focus on **AI and Machine Learning**.
+Final-year CS + AI/ML student at [PES University](https://pes.edu), Bangalore (2026). I research and build AI systems, with work spanning natural language processing, large language models, graph machine learning, and AI for cybersecurity.
 
-### Experience:
+Currently working at the intersection of AI and cybersecurity at [Arctic Wolf Networks](https://arcticwolf.com), where I build AI agents and MCP tools on top of enterprise security data.
 
-- **[Arctic Wolf Networks](https://arcticwolf.com)** - *Developer Intern (Jan 2026 - Present)*
-- **[Indian Institute of Science (IISc)](https://aero.iisc.ac.in/)** – *Research Intern (Jun 2025 – March 2026)*  
-- **[ProjektAnalytics](https://www.projektanalytics.com)** – *AI Engineer Intern (Jun 2025 – August 2025)*  
-- **[Boltzmann Labs](https://www.boltzmann.co)** – *Research Intern (Jun 2024 – Aug 2024)*  
-- **[3Analytics](https://3analytics.com/)** – *LLM Intern (Sept 2023 – Jan 2024)*
+**Research:** I have published papers covering topics like graph neural networks, political stance detection, LLM-based topic modelling, and deep learning for traffic analysis. I also reviewed papers at an ICML 2026 workshop.
 
----
+**Experience:** Research intern at [IISc](https://iisc.ac.in), AI engineer intern at [ProjektAnalytics](https://www.projektanalytics.com), and research intern at [Boltzmann Labs](https://www.boltzmann.co)
 
-### Projects
+**Competitions:** ACM ICPC Asia West Regionalist 2025. Flipr Hackathon Runners Up.
 
-- **[PACLI](https://github.com/saqlain2204/PACLI)** – A CLI-based AI personal assistant agent.  
-- **[Presently](https://github.com/saqlain2204/presently)** – AI-powered tool to turn web content into presentation videos.  
-- **[TopiQ](https://github.com/saqlain2204/Topic-Modelling-Using-Large-Language-Models)** – Topic modeling pipeline with LLMs and graph analytics.
-
-<a href="https://github.com/saqlain2204">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saqlain2204&bg_color=00000000&hide_border=true&point=false&line=ffffff99&line_width=2&radius=8&area=true&area_color=ffffff&title_color=ffffff&color=ffffff99&range=6mo">
-</a>
+Connect with me here: [Email](mailto:saqlain.contact@gmail.com) · [LinkedIn](https://linkedin.com/in/saqlain2204) · [Portfolio](https://msaqlain.com) · [Medium](https://medium.com/@vanishingradiant)
 
 ---
 
-Outside of tech, I balance discipline and agility as both a **professional cricketer** and a **black-belt in karate**. I also share thoughts on AI and life on [Medium](https://medium.com/@vanishingradiant).  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saqlain2204&bg_color=00000000&hide_border=true&point=false&line=ffffff99&line_width=2&radius=8&area=true&area_color=ffffff&title_color=ffffff&color=ffffff99&range=6mo)](https://github.com/saqlain2204)
 
-I’m passionate about building impactful AI systems that solve real problems and am always open to collaboration.  
-
-📩 [Email](mailto:saqlain.contact@gmail.com) | [LinkedIn](https://linkedin.com/in/saqlain2204) | [GitHub](https://github.com/saqlain2204) | [Portfolio](https://msaqlain.com)
+---
