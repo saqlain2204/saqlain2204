@@ -13,6 +13,7 @@ Currently working at the intersection of AI and cybersecurity at [Arctic Wolf Ne
 - Flipr Hackathon Runners Up.
 
 Connect with me here: [Email](mailto:saqlain.contact@gmail.com) · [LinkedIn](https://linkedin.com/in/saqlain2204) · [Portfolio](https://msaqlain.com) · [Medium](https://medium.com/@activation-tanh)
+
 ---
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saqlain2204&bg_color=00000000&hide_border=true&point=false&line=ffffff99&line_width=2&radius=8&area=true&area_color=ffffff&title_color=ffffff&color=ffffff99&range=6mo)](https://github.com/saqlain2204)
