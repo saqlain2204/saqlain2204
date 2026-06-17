@@ -5,6 +5,7 @@ AI Engineer and researcher working at the intersection of natural language proce
 Currently working at the intersection of AI and cybersecurity at [Arctic Wolf Networks](https://arcticwolf.com) .
 
 **Research:** I have published papers covering topics like graph neural networks, political stance detection, LLM-based topic modelling, and deep learning for traffic analysis.
+
 **Experience:** Research intern at [IISc](https://iisc.ac.in), AI engineer intern at [ProjektAnalytics](https://www.projektanalytics.com), and research intern at [Boltzmann Labs](https://www.boltzmann.co)
  
 ---
