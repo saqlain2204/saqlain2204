@@ -1,6 +1,6 @@
-## Mohammed Saqlain - AI Engineer | Researcher | NLP | LLMs | AI Security
+## Mohammed Saqlain - AI Engineer | Researcher | NLP | LLMs | Applied AI
 
-AI Engineer and researcher working at the intersection of natural language processing, large language models, graph machine learning, and AI for cybersecurity.
+AI Engineer and researcher working at the intersection of natural language processing, large language models, graph machine learning and Applied AI
 
 Currently at [Arctic Wolf Networks](https://arcticwolf.com) .
 
