@@ -2,9 +2,9 @@
 
 AI Engineer and researcher working at the intersection of natural language processing, large language models, graph machine learning, and AI for cybersecurity.
 
-Currently working at the intersection of AI and cybersecurity at [Arctic Wolf Networks](https://arcticwolf.com) .
+Currently at [Arctic Wolf Networks](https://arcticwolf.com) .
 
-**Research:** I have published papers covering topics like graph neural networks, political stance detection, LLM-based topic modelling, and deep learning for traffic analysis.
+**Research:** Published papers covering topics like graph neural networks, political stance detection, LLM-based topic modelling, and deep learning for traffic analysis.
 
 **Experience:** Research intern at [IISc](https://iisc.ac.in), AI engineer intern at [ProjektAnalytics](https://www.projektanalytics.com), and research intern at [Boltzmann Labs](https://www.boltzmann.co)
  
@@ -12,6 +12,7 @@ Currently working at the intersection of AI and cybersecurity at [Arctic Wolf Ne
 
 - ACM ICPC Asia West Regionalist 2025.
 - Flipr Hackathon Runners Up.
+- Kinght at LeetCode
 
 Connect with me here: [Email](mailto:saqlain.contact@gmail.com) · [LinkedIn](https://linkedin.com/in/saqlain2204) · [Portfolio](https://msaqlain.com) · [Medium](https://medium.com/@activation-tanh)
 
