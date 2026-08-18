@@ -1,5 +1,5 @@
 <h1 align="center">Mohammed Saqlain</h1>
-<h3 align="center">AI Engineer · Researcher · Reinforcement Learning · SLMs</h3>
+<h3 align="center">AI Engineer · Researcher · Post Training · RL · SLMs</h3>
 
 <p align="center">
   <a href="https://msaqlain.com"><img src="https://img.shields.io/badge/Portfolio-msaqlain.com-0a3069?style=flat-square" alt="Portfolio"></a>
