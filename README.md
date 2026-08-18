@@ -11,10 +11,8 @@
 
 ---
 
-## About
+**Research interests:** Post-training Small Language Models (SLMs), Reinforcement Learning for Language Models, LLM behavior, and efficient architectures.
 
-My current research is in the areas of Reinforcement Learning x SLMs, LLM behaviour, efficient architectures, and post-training.
- 
 Currently at [Arctic Wolf Networks](https://arcticwolf.com/).
  
 Previously:
