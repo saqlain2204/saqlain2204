@@ -13,6 +13,8 @@
 
 **Research interests:** Post-training Small Language Models (SLMs), Reinforcement Learning for Language Models, LLM behavior, and efficient architectures.
 
+Working on simplifying fine tuning jobs for Researchers: Check out [trloom](https://github.com/saqlain2204/trloom)
+
 Currently at [Arctic Wolf Networks](https://arcticwolf.com/).
  
 Previously:
