@@ -26,8 +26,7 @@ trloom run config.yaml          # local
 trloom run config.yaml --modal  # remote GPUs
 ```
 
-Docs: [saqlain2204.github.io/trloom](https://saqlain2204.github.io/trloom/) · PyPI: [trloom](https://pypi.org/project/trloom/) · Release: [v0.1.1](https://github.com/saqlain2204/trloom/releases/tag/v0.1.1)
-
+Docs: [saqlain2204.github.io/trloom](https://saqlain2204.github.io/trloom/) · PyPI: [trloom](https://pypi.org/project/trloom/)
 If this saves you setup time, a ⭐ helps others find it.
 
 
