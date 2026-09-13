@@ -13,7 +13,24 @@
 
 **Research interests:** Post-training Small Language Models (SLMs), Reinforcement Learning for Language Models, LLM behavior, and efficient architectures.
 
-Working on simplifying fine tuning jobs for Researchers: Check out [trloom](https://github.com/saqlain2204/trloom)
+Working on simplifying fine-tuning jobs for researchers with **[TRLoom](https://github.com/saqlain2204/trloom)**.
+---
+
+### Featured open source
+
+**[TRLoom](https://github.com/saqlain2204/trloom)** — YAML-driven end-to-end fine-tuning on Hugging Face TRL.
+
+```bash
+pip install trloom
+trloom run config.yaml          # local
+trloom run config.yaml --modal  # remote GPUs
+```
+
+Docs: [saqlain2204.github.io/trloom](https://saqlain2204.github.io/trloom/) · PyPI: [trloom](https://pypi.org/project/trloom/) · Release: [v0.1.1](https://github.com/saqlain2204/trloom/releases/tag/v0.1.1)
+
+If this saves you setup time, a ⭐ helps others find it.
+
+
 
 Currently at [Arctic Wolf Networks](https://arcticwolf.com/).
  
