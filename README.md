@@ -11,9 +11,9 @@
 
 ---
 
-**Research interests:** Post-training Small Language Models (SLMs), Reinforcement Learning for Language Models, LLM behavior, and efficient architectures.
+**Research interests:** Currently in AI Safety
 
-Working on simplifying fine-tuning jobs for researchers with **[TRLoom](https://github.com/saqlain2204/trloom)**.
+Also Working on simplifying fine-tuning jobs for researchers with **[TRLoom](https://github.com/saqlain2204/trloom)**.
 ---
 
 ### Featured open source
