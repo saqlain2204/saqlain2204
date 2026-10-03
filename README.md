@@ -45,7 +45,7 @@ Previously:
 
 ## Research & Publications
 
-- *Real PMIDs, Wrong Papers: Harness Design for Biomedical Claim-Verification Agents* — NeurIPS 2026
+- *Real PMIDs, Wrong Papers: Harness Design for Biomedical Claim-Verification Agents* — AgwnticLS @ NeurIPS 2026
 - *HyperGNNs for Multi-Modal Classification and Severity Analysis of Neurodegenerative Disorders* — ICTIS 2026
 - *BiasNet: A Contrastive GNN Based Framework for Classifying Political Stance in News* — FTNCT 2025
 - *Reading Between the Lines: LLM-Powered Topic Modelling and Graph-Based Insights from Research Abstracts* — WCAIAA 2025
