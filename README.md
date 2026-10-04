@@ -19,7 +19,7 @@ Also Working on simplifying fine-tuning jobs for researchers with **[TRLoom](htt
 
 ## Recent news
 
-- *Real PMIDs, Wrong Papers: Harness Design for Biomedical Claim-Verification Agents* — **[AgenticLS @ NeurIPS 2026](https://agenticls.github.io/)**
+- *Real PMIDs, Wrong Papers: Harness Design for Biomedical Claim-Verification Agents* has been accepted to the **Agentic AI for Biological Discovery** workshop ([AgenticLS](https://agenticls.github.io/)) at NeurIPS 2026.
 
 ---
 
