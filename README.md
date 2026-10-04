@@ -14,6 +14,13 @@
 **Research interests:** Currently in AI Safety
 
 Also Working on simplifying fine-tuning jobs for researchers with **[TRLoom](https://github.com/saqlain2204/trloom)**.
+
+---
+
+## Recent news
+
+- *Real PMIDs, Wrong Papers: Harness Design for Biomedical Claim-Verification Agents* has been accepted to the **Agentic AI for Biological Discovery** workshop ([AgenticLS](https://agenticls.github.io/)) at NeurIPS 2026.
+
 ---
 
 ### Featured open source
