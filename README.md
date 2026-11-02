@@ -36,18 +36,6 @@ trloom run config.yaml --modal  # remote GPUs
 Docs: [saqlain2204.github.io/trloom](https://saqlain2204.github.io/trloom/) · PyPI: [trloom](https://pypi.org/project/trloom/)
 If this saves you setup time, a ⭐ helps others find it.
 
-
-
-Currently at [Arctic Wolf Networks](https://arcticwolf.com/).
- 
-Previously:
- 
-* Built RL models for autonomous drone navigation (PPO) and predictive battery State-of-Charge models as a Research Intern at [IISc](https://iisc.ac.in/)
-* Designed RESTful APIs and a hybrid-retrieval RAG chatbot as an AI Engineer Intern at [ProjektAnalytics](https://www.projektanalytics.com/)
-* Built a RAG pipeline for clinical query answering and a live speech-to-text application as a Research Intern at [Boltzmann Labs](https://boltzmann.co/)
-* Contribute to FOSS across the AI ecosystem, including [Hugging Face Diffusers/Transformers](https://github.com/huggingface)
-* Shipped projects spanning agentic CLI assistants, hate-speech classification with explainability, LLM-based topic modelling, and automated content pipelines
-  
 ---
 
 ## Research & Publications
