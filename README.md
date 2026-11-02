@@ -11,7 +11,7 @@
 
 ---
 
-**Research interests:** Currently in AI Safety
+**Research interests:** Post Training, Agentic Systems, AI Safety, SLMs
 
 Also Working on simplifying fine-tuning jobs for researchers with **[TRLoom](https://github.com/saqlain2204/trloom)**.
 
